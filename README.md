@@ -32,6 +32,4 @@ It includes data preprocessing, exploratory data analysis, model training, evalu
   Displays global feature importance using SHAP values.
 
 ---
-
-## 📂 Project Structure
 @sounak
